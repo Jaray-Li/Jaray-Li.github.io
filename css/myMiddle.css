@@ -73,11 +73,7 @@ table#noborder-mid {
 }
 
 
-/* Increment */
-.standard-img {
-  width: 230px;
-  height: 150px; /* Keep img width/heigth ratio */
-}
+
 
 .category_1 {
   font-weight: bold;
