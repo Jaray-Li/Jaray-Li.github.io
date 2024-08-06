@@ -372,3 +372,27 @@ table.imgtable, table.imgtable td {
     border: none;
     text-align: left;
 }
+
+
+
+/* increment */
+/* New styles for research block */
+.research-block {
+	margin-top: 20px;
+  }
+  
+  .research-content {
+	border: 1px solid #ddd;
+	padding: 10px;
+	background-color: #ffffff; /* New background color */
+  }
+  
+  .standard-img {
+	width: 220px;
+	height: 150px;
+  }
+  
+  .tdimg, .tdcontent {
+	vertical-align: top;
+  }
+  
